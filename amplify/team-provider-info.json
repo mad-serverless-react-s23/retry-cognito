@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-retrycognito-dev-22231-authRole",
+      "UnauthRoleArn": "arn:aws:iam::230395760767:role/amplify-retrycognito-dev-22231-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::230395760767:role/amplify-retrycognito-dev-22231-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-retrycognito-dev-22231-deployment",
+      "UnauthRoleName": "amplify-retrycognito-dev-22231-unauthRole",
+      "StackName": "amplify-retrycognito-dev-22231",
+      "StackId": "arn:aws:cloudformation:us-east-2:230395760767:stack/amplify-retrycognito-dev-22231/47d77130-e015-11ed-a486-024f906aa6c5",
+      "AmplifyAppId": "d24h1pu408mj3"
+    }
+  }
+}

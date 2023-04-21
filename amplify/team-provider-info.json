@@ -10,6 +10,11 @@
       "StackName": "amplify-retrycognito-dev-22231",
       "StackId": "arn:aws:cloudformation:us-east-2:230395760767:stack/amplify-retrycognito-dev-22231/47d77130-e015-11ed-a486-024f906aa6c5",
       "AmplifyAppId": "d24h1pu408mj3"
+    },
+    "categories": {
+      "auth": {
+        "retrycognitocfb7c71b": {}
+      }
     }
   }
 }
